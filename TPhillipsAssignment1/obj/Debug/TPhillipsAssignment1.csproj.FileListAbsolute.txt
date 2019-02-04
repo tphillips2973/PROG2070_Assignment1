@@ -5,3 +5,10 @@ E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssi
 E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\bin\Debug\TPhillipsAssignment1.pdb
 E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.exe
 E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.pdb
+C:\Users\start\Downloads\PROG2070_Assignment1-master\PROG2070_Assignment1-master\TPhillipsAssignment1\bin\Debug\TPhillipsAssignment1.exe.config
+C:\Users\start\Downloads\PROG2070_Assignment1-master\PROG2070_Assignment1-master\TPhillipsAssignment1\bin\Debug\TPhillipsAssignment1.exe
+C:\Users\start\Downloads\PROG2070_Assignment1-master\PROG2070_Assignment1-master\TPhillipsAssignment1\bin\Debug\TPhillipsAssignment1.pdb
+C:\Users\start\Downloads\PROG2070_Assignment1-master\PROG2070_Assignment1-master\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.csprojAssemblyReference.cache
+C:\Users\start\Downloads\PROG2070_Assignment1-master\PROG2070_Assignment1-master\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\start\Downloads\PROG2070_Assignment1-master\PROG2070_Assignment1-master\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.exe
+C:\Users\start\Downloads\PROG2070_Assignment1-master\PROG2070_Assignment1-master\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.pdb

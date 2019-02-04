@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Program Title: PROG2070_TPhillipsAssignment1
+ * 
+ * Date Modified: 2019/02/04
+ * 
+ */
+using System;
 
 namespace TPhillipsAssignment1
 {

@@ -1,8 +1,10 @@
 ﻿/*
+ * Program Title: PROG2070_TPhillipsAssignment1
  * 
+ * Date Modified: 2019/02/04
  * 
- * 
- * 
+ * Description: Allows the user to manipulate 
+ * a circle by changing it's radius.
  * 
  */
 
@@ -21,6 +23,8 @@ namespace TPhillipsAssignment1
             ConsoleKeyInfo inputKey = Console.ReadKey();
             switch (inputKey.Key)
             {
+                //Output the current circle radius 
+                //when the "1" key is pressed.
                 case ConsoleKey.D1:
                     Console.Clear();
                     Console.WriteLine("Current Circle Radius is: "
@@ -30,6 +34,8 @@ namespace TPhillipsAssignment1
                     Console.ReadKey();
                     goto StartProgram;
 
+                    //Allow user to input a new circle radius when the
+                    // "2" key is pressed.
                 case ConsoleKey.D2:
                     Console.Clear();
                     Console.WriteLine("Please enter a new circle radius.");
@@ -67,6 +73,7 @@ namespace TPhillipsAssignment1
                     Console.ReadKey();
                     goto StartProgram;
 
+                //Get circles circumference when "3" key is pressed.
                 case ConsoleKey.D3:
                     Console.Clear();
                     Console.WriteLine("The circle's circumference " +
@@ -76,6 +83,7 @@ namespace TPhillipsAssignment1
                     Console.ReadKey();
                     goto StartProgram;
 
+                //Get circles area when "4" key is pressed.
                 case ConsoleKey.D4:
                     Console.Clear();
                     Console.WriteLine("The circle's area " +
@@ -85,6 +93,7 @@ namespace TPhillipsAssignment1
                     Console.ReadKey();
                     goto StartProgram;
 
+                    //Exit Application when "5" key is pressed.
                 case ConsoleKey.D5:
                     Environment.Exit(0);
                     break;
