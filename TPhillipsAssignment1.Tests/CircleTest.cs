@@ -11,51 +11,38 @@ namespace TPhillipsAssignment1.Tests
     [TestFixture]
     public class CircleTest
     {
-        private int circleRadius;
+        //Circle class instance
+        public Circle circle = new Circle();
 
         public CircleTest()
         {
-            circleRadius = 1;
-        }
-
-        public int GetRadius()
-        {
-            return circleRadius;
-        }
-
-        public void SetRadius(int radius)
-        {
-            circleRadius = radius;
+            //circleRadius = 1;
         }
 
         [Test]
-        public double GetCircumference()
+        public void GetRadiusTest_Given1_ResultIs1()
         {
-            double circumference = 2 * Math.PI * circleRadius;
-            circumference = Math.Round(circumference, 2);
-            return circumference;
-        }
-
-        [Test]
-        public double GetArea()
-        {
-            double area = Math.PI * (circleRadius * circleRadius);
-            area = Math.Round(area, 2);
-            return area;
-        }
-
-        [Test]
-        public void checkRadius()
-        {
-            Circle circle = new Circle();
-            int x = 0;
+            //Arrange
+            circle.SetRadius(1);
 
             //Act
-            //x = circle.SetRadius(1);
-            x = circle.SetRadius(1);
+            int radius = circle.GetRadius();
 
             //Assert
-            Assert.AreEqual(x, circle.SetRadius(1));
+            Assert.AreEqual(1, radius);
+        }
+
+        [Test]
+        public void SetRadiusTest_Given1_ResultIs1()
+        {
+            //Arrange
+            circle.GetRadius();
+
+            //Act
+            circle.SetRadius(1);
+
+            //Assert
+            //Assert.AreEqual(1, radius);
         }
     }
 }
