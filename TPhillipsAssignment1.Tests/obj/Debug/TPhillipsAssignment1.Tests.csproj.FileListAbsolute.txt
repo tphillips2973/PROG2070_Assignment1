@@ -1,0 +1,13 @@
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\bin\Debug\TPhillipsAssignment1.Tests.dll
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\bin\Debug\TPhillipsAssignment1.Tests.pdb
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\bin\Debug\nunit.framework.dll
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\bin\Debug\TPhillipsAssignment1.exe
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\bin\Debug\TPhillipsAssignment1.pdb
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\bin\Debug\TPhillipsAssignment1.exe.config
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\bin\Debug\nunit.framework.pdb
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\bin\Debug\nunit.framework.xml
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\obj\Debug\TPhillipsAssignment1.Tests.csprojAssemblyReference.cache
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\obj\Debug\TPhillipsAssignment1.Tests.csproj.CoreCompileInputs.cache
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\obj\Debug\TPhillipsAssignment1.Tests.csproj.CopyComplete
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\obj\Debug\TPhillipsAssignment1.Tests.dll
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1.Tests\obj\Debug\TPhillipsAssignment1.Tests.pdb

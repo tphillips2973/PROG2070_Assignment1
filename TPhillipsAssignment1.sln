@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPhillipsAssignment1", "TPhillipsAssignment1\TPhillipsAssignment1.csproj", "{0B230608-EC1A-470A-9B3E-0E78A26EAF96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPhillipsAssignment1.Tests", "TPhillipsAssignment1.Tests\TPhillipsAssignment1.Tests.csproj", "{B3B14296-BE8F-4958-842D-7157A950AC72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0B230608-EC1A-470A-9B3E-0E78A26EAF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B230608-EC1A-470A-9B3E-0E78A26EAF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B230608-EC1A-470A-9B3E-0E78A26EAF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B14296-BE8F-4958-842D-7157A950AC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B14296-BE8F-4958-842D-7157A950AC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B14296-BE8F-4958-842D-7157A950AC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B14296-BE8F-4958-842D-7157A950AC72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
