@@ -1,0 +1,7 @@
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.csprojAssemblyReference.cache
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.csproj.CoreCompileInputs.cache
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\bin\Debug\TPhillipsAssignment1.exe.config
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\bin\Debug\TPhillipsAssignment1.exe
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\bin\Debug\TPhillipsAssignment1.pdb
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.exe
+E:\School Work\Quality Assurance\Assignment#1\PROG2070_Assignment1\TPhillipsAssignment1\obj\Debug\TPhillipsAssignment1.pdb

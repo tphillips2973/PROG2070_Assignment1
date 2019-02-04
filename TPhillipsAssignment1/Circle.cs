@@ -1,33 +1,38 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TPhillipsAssignment1
 {
-    class Circle
+    public class Circle
     {
+        private int circleRadius;
+
+        public Circle()
+        {
+            circleRadius = 1;
+        }
 
         public int GetRadius()
         {
-
-            return 1;
+            return circleRadius;
         }
 
         public void SetRadius(int radius)
         {
-
+            circleRadius = radius;
         }
 
         public double GetCircumference()
         {
-
+            double circumference = 2 * Math.PI * circleRadius;
+            circumference = Math.Round(circumference, 2);
+            return circumference;
         }
 
         public double GetArea()
         {
-
+            double area = Math.PI * (circleRadius * circleRadius);
+            area = Math.Round(area, 2);
+            return area;
         }
     }
 }
